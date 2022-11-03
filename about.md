@@ -28,5 +28,5 @@ key: page-about
 
 ID 4ncly  
 NUDT --> ZJU  
-Research Area blockchain & applied crypto  
-Wechat cdyang2000  
+Research Interest blockchain & applied crypto  
+WeChat cdyang2000  
